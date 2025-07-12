@@ -16,5 +16,9 @@ A Windows application that monitors your VPN connection and automatically disabl
 ## Requirements
 
 - Python 3.7+
-- Windows OS
+- Windows 7/8/10/11
 - Required Python packages (install via `pip install -r requirements.txt`):
+
+Run the application:
+ ```bash
+ python killswitch.py
