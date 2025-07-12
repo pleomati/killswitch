@@ -2,7 +2,7 @@
 
 ![Killswitch Screenshot](killswitch.png)
 
-A Windows application that monitors your VPN connection and automatically disables internet access if the VPN connection drops, ensuring your real IP is never exposed.
+A Windows application that monitors your VPN connection and automatically disables internet access if the VPN connection drops, ensuring real IP is never exposed.
 
 ## Features
 
